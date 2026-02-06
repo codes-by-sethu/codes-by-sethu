@@ -1,7 +1,9 @@
 👋 Hi, I’m Sethulakshmi
 
 🚀 Applied AI | Data Science | GenAI Engineer-in-Training
+
 🎓 Engineering Student @ ESILV, Paris
+
 💡 I build real-world AI systems — from data to deployed intelligence.
 
 What I Do

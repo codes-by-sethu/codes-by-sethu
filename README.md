@@ -19,14 +19,12 @@ What I Do
 
 Projects I Like Building
 
-=>Applied AI systems that solve real problems
-=?GenAI tools for documents, automation, and decision support
-=>ML models that go beyond notebooks into production
+🎯Applied AI systems that solve real problems
 
-What I’m Looking For
+🎯GenAI tools for documents, automation, and decision support
 
-🎯 AI / ML / Data Science Internship (2026)
-I’m focused on hands-on, impact-driven roles where I can ship real AI.
+🎯ML models that go beyond notebooks into production
+
 
 
 ## 🌐 Socials:

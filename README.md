@@ -1,5 +1,26 @@
-# 💫 About Me:
-🚀 Applied AI | Data Science | GenAI Engineer-in-Training<br>🎓 Engineering Student @ ESILV, Paris<br>💡 I build real-world AI systems — from data to deployed intelligence.<br><br>What I Do<br><br>🤖 Applied AI & Machine Learning<br><br>🧠 Generative AI (LLMs, RAG, AI agents)<br><br>📊 Data Science & Predictive Modeling<br><br>🛠️ End-to-end ML pipelines (data → model → deployment)<br><br><br>Projects I Like Building<br><br>Applied AI systems that solve real problems<br><br>GenAI tools for documents, automation, and decision support<br><br>ML models that go beyond notebooks into production
+👋 Hi, I’m Sethulakshmi
+
+🚀 Applied AI | Data Science | GenAI Engineer-in-Training
+🎓 Engineering Student @ ESILV, Paris
+💡 I build real-world AI systems — from data to deployed intelligence.
+
+What I Do
+
+🤖 Applied AI & Machine Learning
+🧠 Generative AI (LLMs, RAG, AI agents)
+📊 Data Science & Predictive Modeling
+🛠️ End-to-end ML pipelines (data → model → deployment)
+
+Projects I Like Building
+
+=>Applied AI systems that solve real problems
+=?GenAI tools for documents, automation, and decision support
+=>ML models that go beyond notebooks into production
+
+What I’m Looking For
+
+🎯 AI / ML / Data Science Internship (2026)
+I’m focused on hands-on, impact-driven roles where I can ship real AI.
 
 
 ## 🌐 Socials:

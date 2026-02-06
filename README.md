@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Hi, I’m Sethu
 
-<!--
-**codes-by-sethu/codes-by-sethu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Data Engineering student passionate about building intelligent systems using ML, NLP, and LLMs. I love turning complex problems into scalable, real-world solutions.
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- Python, SQL
+- Machine Learning, Deep Learning
+- NLP, Large Language Models (LLMs)
+- LangChain, Vector Databases, RAG
+- Pandas, NumPy, Scikit-learn, PyTorch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+- Intelligent Document Auditor — AI for document analysis & validation  
+- Smart AI Resume Matcher — NLP-based resume & job matching  
+- AI-Powered Analytics Dashboard — Real-time insights & visualization  
+- Drone Fault Detection — ML for predictive maintenance  
+- Multilingual Translation API — NLP for cross-language systems  
+
+### 🌐 Links
+- Portfolio: https://YOUR-GITHUB-PAGES-LINK  
+- LinkedIn: https://linkedin.com/in/YOUR-LINK
+
+📫 Always open to AI/ML & Software Engineering internship opportunities.

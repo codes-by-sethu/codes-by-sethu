@@ -17,7 +17,7 @@ AI & Data Engineering student passionate about building intelligent systems usin
 - Multilingual Translation API — NLP for cross-language systems  
 
 ### 🌐 Links
-- Portfolio: https://YOUR-GITHUB-PAGES-LINK  
-- LinkedIn: https://linkedin.com/in/YOUR-LINK
+- Portfolio: https://codes-by-sethu.github.io/PORTFOLIO/  
+- LinkedIn: https://www.linkedin.com/in/sethukb/
 
 📫 Always open to AI/ML & Software Engineering internship opportunities.

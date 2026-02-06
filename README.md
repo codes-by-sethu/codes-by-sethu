@@ -10,9 +10,7 @@ What I Do
 
 🤖 Applied AI & Machine Learning
 🧠 Generative AI (LLMs, RAG, AI agents)
-
 📊 Data Science & Predictive Modeling
-
 🛠️ End-to-end ML pipelines (data → model → deployment)
 
 

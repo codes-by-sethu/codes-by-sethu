@@ -17,14 +17,6 @@ What I Do
 🛠️ End-to-end ML pipelines (data → model → deployment)
 
 
-Projects I Like Building
-
-🎯Applied AI systems that solve real problems
-
-🎯GenAI tools for documents, automation, and decision support
-
-🎯ML models that go beyond notebooks into production
-
 
 
 ## 🌐 Socials:
